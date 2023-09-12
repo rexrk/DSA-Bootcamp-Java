@@ -12,12 +12,12 @@
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/) `leetcode`
 - [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) `leetcode`
 - [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) `leetcode`
-- ([]) [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
-- ([]) [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
-- ([]) [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
-- ([]) [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
-- ([]) [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
-- ([]) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) `leetcode`
+- [x] [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) `leetcode`
+- [x] [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
+- [ ] [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
+- [x] [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
 
 ## Medium
 
