@@ -1,19 +1,19 @@
 # Videos
-- [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-- [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
-- [Insertion Sort](https://youtu.be/By_5-RRqVeE)
-- [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
-- [Merge Sort](https://youtu.be/iKGAgWdgoRk)
-- [Quick Sort](https://youtu.be/Z8svOqamag8)
+- [x] [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
+- [x] [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
+- [x] [Insertion Sort](https://youtu.be/By_5-RRqVeE)
+- [x] [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
+- [x] [Merge Sort](https://youtu.be/iKGAgWdgoRk)
+- [x] [Quick Sort](https://youtu.be/Z8svOqamag8)
 
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
