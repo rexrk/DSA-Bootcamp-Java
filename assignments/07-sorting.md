@@ -41,12 +41,12 @@
 - [x] [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
-- [3Sum](https://leetcode.com/problems/3sum/)
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-- [4Sum](https://leetcode.com/problems/4sum/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [x] [4Sum](https://leetcode.com/problems/4sum/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
